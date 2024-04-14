@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestion visiteur</string>
+    <string name="default_nom">koto</string>
+    <string name="default_nb_jours">3</string>
+    <string name="default_tarifJ">100</string>
+    <string name="default_tarif">300</string>
+    <string name="default_nom_titre">Nom :</string>
+    <string name="default_nb_jours_titre">nb_jour:</string>
+    <string name="default_tarif_titre">tarif:</string>
+    <string name="default_tarifJ_titre">tarifJ:</string>
+
+</resources>
